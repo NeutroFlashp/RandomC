@@ -1,0 +1,29 @@
+﻿  Calculadora.cpp
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(6,23): error C2871: 'System': no existe ningún espacio de nombres con este nombre
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(19,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(24,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(33,2): error C2653: 'Console': no es un nombre de clase o espacio de nombres
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(33,11): error C3861: 'SetWindowSize': no se encontró el identificador
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(34,2): error C2653: 'Console': no es un nombre de clase o espacio de nombres
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(34,11): error C2065: 'ForegroundColor': identificador no declarado
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(34,29): error C2653: 'ConsoleColor': no es un nombre de clase o espacio de nombres
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(34,43): error C2065: 'Black': identificador no declarado
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(35,2): error C2653: 'Console': no es un nombre de clase o espacio de nombres
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(35,11): error C2065: 'BackgroundColor': identificador no declarado
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(35,29): error C2653: 'ConsoleColor': no es un nombre de clase o espacio de nombres
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(35,43): error C2065: 'Yellow': identificador no declarado
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(36,2): error C2653: 'Console': no es un nombre de clase o espacio de nombres
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(36,11): error C3861: 'Clear': no se encontró el identificador
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(38,2): error C2653: 'Console': no es un nombre de clase o espacio de nombres
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(38,11): error C3861: 'SetCursorPosition': no se encontró el identificador
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(46,3): error C2653: 'Console': no es un nombre de clase o espacio de nombres
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(46,12): error C2065: 'BackgroundColor': identificador no declarado
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(46,30): error C2653: 'ConsoleColor': no es un nombre de clase o espacio de nombres
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(46,44): error C2065: 'Green': identificador no declarado
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(47,3): error C2653: 'Console': no es un nombre de clase o espacio de nombres
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(47,12): error C3861: 'Clear': no se encontró el identificador
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(60,3): error C2653: 'Console': no es un nombre de clase o espacio de nombres
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(60,12): error C2065: 'BackgroundColor': identificador no declarado
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(60,30): error C2653: 'ConsoleColor': no es un nombre de clase o espacio de nombres
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(60,44): error C2065: 'Red': identificador no declarado
+C:\Users\neutr\source\repos\Calculadora\Calculadora.cpp(92,4): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
